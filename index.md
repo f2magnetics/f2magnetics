@@ -3,11 +3,10 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: A UK Force in Electromagnetic lifting
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
+      In One year F2 Magnetics Limited produced 6,887,094 Kg of Electromagnetic lifting force. Enough to lift 12.5 fully           laden Airbus A380s
+    image: https://res.cloudinary.com/f2magnetics/image/upload/f_auto,q_auto,w_400/planes_y3woms.png
     actions:
       - label: Learn More
         url: /features
